@@ -1,0 +1,26 @@
+body {
+  margin: 0 auto;
+  font-family: "Pixelify Sans", sans-serif;
+}
+
+.hour-content {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  margin-top: 3em;
+}
+#image {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  margin: 0 auto;
+}
+#hour {
+  font-size: 7rem;
+  position: absolute;
+  color: rgb(255, 255, 255);
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: black;
+}
